@@ -1,3 +1,6 @@
+#Literature Review Table Generator
+#By Lanfei Liu in University of Michigan
+
 import unittest
 import requests
 import json
