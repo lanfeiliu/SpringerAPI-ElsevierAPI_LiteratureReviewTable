@@ -15,8 +15,8 @@ Then type in infos according to the guidiance showing on terminal
 
 FILE LIST:
 
-"Lanfei.py"----The Python file
-"506_Final_Project_Readme_Lanfei.txt"----the README file
+"Lanfei_interact.py"----The Python file
+"README.md"----the README file
 "scopus_forid.txt" ----The cache data from Elsevier Scopus Search API
 "scopus_abstract.txt" ----The cache data from Elsevier Abstract Retrieval API
 "scopus_abstract.csv"---- The output file containing articles' metadata, abstract and analysis of abstract from Elsevier
