@@ -3,12 +3,15 @@ BY LANFEI LIU IN UNIVERSITY OF MICHIGAN
 
 
 AIM OF THIS PROJECT:
+
 This project is designed to export an literature review table in order to find current research achievements and figure out the research gaps. I search the papers which contain "rain garden" and are published in 2016, from Elsevier API and Springer API. I retrieve their titles, authors, pulication years, and abstracts and then pick out possible useful staticial relationships, conclusions and suggestions from each article's abstract.
 
 STEPS:
+
 You just need to run "Lanfei_interact.py" on terminal and type in infos according to the guidiance showing on terminal
 
 FILE LIST:
+
 	"Lanfei.py"----The Python file
 	"506_Final_Project_Readme_Lanfei.txt"----the README file
 	"scopus_forid.txt" ----The cache data from Elsevier Scopus Search API
@@ -20,6 +23,7 @@ FILE LIST:
 
 
 RELATIVE API SOURCES
+
 	*Elsevier Scopus Search API---to retrieve a paper's metadata(including Scopus id) from Elsevier
 	http://api.elsevier.com/documentation/SCOPUSSearchAPI.wadl
 	*Elsevier Abstract Retrieval API----retrieve a paper's abstract in Elsevier by its Scopus id
@@ -32,4 +36,5 @@ RELATIVE API SOURCES
 		
 
 WHY THIS PROJECT?
+
 	I do this project because I did a literature review table manually in last summer and I found it is very time consuming. So I try to figure out doing this table by programming. I got all the metadata and abstract I wanted, but not all the papers containing staticial relationship, conclusion and suggestion in their abstract. It would be better if I analyse full text, but it would need more time and be more difficult.
