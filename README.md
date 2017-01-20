@@ -15,7 +15,7 @@ Then type in infos according to the guidiance showing on terminal
 
 ## FILE LIST:
 
-"Lanfei_interact.py"----The Python file
+"Elsevier_Springer.py.py"----The Python file
 
 "README.md"----the README file
 
