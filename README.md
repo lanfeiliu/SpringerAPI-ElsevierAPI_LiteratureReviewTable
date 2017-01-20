@@ -1,5 +1,5 @@
 # A Literature Review Generator
-BY LANFEI LIU IN UNIVERSITY OF MICHIGAN
+By Lanfei Liu in University of Michigan
 
 
 ## AIM OF THIS PROJECT:
