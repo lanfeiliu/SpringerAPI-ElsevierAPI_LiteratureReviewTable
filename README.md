@@ -4,7 +4,7 @@ BY LANFEI LIU IN UNIVERSITY OF MICHIGAN
 
 ## AIM OF THIS PROJECT:
 
-This project is designed to export an literature review table in order to find current research achievements and figure out the research gaps. 
+This project is designed to export a literature review table in order to find current research achievements and figure out the research gaps. 
 I search the papers which contain "rain garden" and are published in 2016, from Elsevier API and Springer API. 
 I retrieve their titles, authors, pulication years, and abstracts and then pick out possible useful staticial relationships, conclusions and suggestions from each article's abstract.
 
